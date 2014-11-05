@@ -1,5 +1,5 @@
-CRM¨t²Î
-	¦b«í¼ÝJava¥þ¤è­±¶}µo¯Z²Ä¤G¶¥¬q½Òµ{§¹¦¨ªº§@«~
-	³z¹LWEB§e²{¸ê®Æ»PMySQL³sµ²°µªº·s¼W·|­û¡B¬d¸ß¥\¯à¡BWEB¸}¦â±±ºÞ
+ï»¿CRMç³»çµ±
+	åœ¨æ†æ¯…Javaå…¨æ–¹é¢é–‹ç™¼ç­ç¬¬äºŒéšŽæ®µèª²ç¨‹å®Œæˆçš„ä½œå“
+	é€éŽWEBå‘ˆç¾è³‡æ–™èˆ‡MySQLé€£çµåšçš„æ–°å¢žæœƒå“¡ã€æŸ¥è©¢åŠŸèƒ½ã€WEBè…³è‰²æŽ§ç®¡
 
-¶}µoÀô¹ÒNetbeans
+é–‹ç™¼ç’°å¢ƒNetbeans
